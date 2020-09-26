@@ -38,7 +38,7 @@ Step 3 : You can optionally pass the `-o <output file>` to specify the name of t
 ### Contributing
 
 Contributions, issues and feature requests are welcome!  
-Feel free to check issues page.
+Feel free to check [issues](https://github.com/iamhrishikeshpadhye/LinkedIn-Video-downloader/issues) page.
 
 ### Support this project :)
 
