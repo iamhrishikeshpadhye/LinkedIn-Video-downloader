@@ -26,7 +26,8 @@ $python linkedin-dl.py -u "https://www.linkedin.com/posts/strati-georgopoulos_wo
 
 ```
 
-Step 3 : You can optionally pass the `-o <output file>` to specify the name of the video that is to be stored.  
+You can optionally pass the `-o <output file>` to specify the name of the video that is to be stored.  
+Please note that the link is just for example and you can replace it with any valid link.  
 
 ## Author
 
